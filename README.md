@@ -2,6 +2,16 @@
 
 The old and good tic-tac-toe game :smiley:
 
+**The visual:**
+
+<div align="center">
+  
+| The game   | The winner   | It's a tie!   |
+|----------|:----------|:----------|
+| ![example](images/tic-tac-toe.png) | ![example](images/x-wins.png) | ![example](images/tie.png) |
+
+</div>
+
 I built one tic-tac-toe game before. That one allows the player to play against the machine, and it runs only on the terminal. This time I decided to go further and build a simple (but beautiful) board and give the chance for the players to play against each other.
 
 In order to built this, I used [pygame](https://www.pygame.org/news), a python framework for (as the name suggests) build games.
