@@ -6,8 +6,8 @@ The old and good tic-tac-toe game :smiley:
 
 <div align="center">
   
-| The game   | The winner   | It's a tie!   |
-|----------|:----------|:----------|
+| The game|The winner|It's a tie!|
+|:-------:|:--------:|:---------:|
 | ![example](images/tic-tac-toe.png) | ![example](images/x-wins.png) | ![example](images/tie.png) |
 
 </div>
