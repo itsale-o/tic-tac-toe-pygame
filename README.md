@@ -18,7 +18,7 @@ In order to built this, I used [pygame](https://www.pygame.org/news), a python f
 
 <div align="center">
   
-  [](images/pygame.png)
+[](images/pygame.png)
   
 </div>
 
